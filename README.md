@@ -1,2 +1,2 @@
 # JavaScriptBangla
-![This is an image]([Imgur](https://i.imgur.com/7zSgBra.png))
+![This is an image](https://i.imgur.com/7zSgBra.png)
